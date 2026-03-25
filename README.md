@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hi 👋, I'm Arka Sarker Amit<br>Senior IT Officer | Aspiring Full-Stack Developer (MERN & Next.js)<br><br>I am a **Senior IT Officer** at **Blue Pineapple Technology**, responsible for data management, reporting, and MIS operations.  <br><br>I am passionate about **Web Development** and have experience at a **beginner-to-intermediate level** in building modern, scalable applications.  <br><br>🛠️ Skills & Tech Stack<br>- 💻 **Frontend & Backend:** MERN (MongoDB, Express.js, React, Node.js), Next.js  <br>- 🌱 **Learning:** Advanced full-stack development, modern web frameworks  <br>- 🚀 **Interests:** Scalable web apps, clean code, problem-solving  <br><br> 🌐 Portfolio & Contact<br>- 🔗 Portfolio: arkasamit<br>- ✉️ Email: arkaamitdev@gmail.com<br>- 🔗 LinkedIn: https://www.linkedin.com/in/arkasamit<br><br>⭐ Arka Sarker Amit - Coding today, innovating tomorrow.
 
 <p align="center">
