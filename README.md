@@ -41,12 +41,6 @@
   <img src="https://streak-stats.demolab.com?user=arkasamit&theme=tokyonight" />
 </p>
 
----
-
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/arkasamit/arkasamit/blob/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
