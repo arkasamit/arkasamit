@@ -117,54 +117,22 @@ const arka = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-## 💡 I Can Build — Roadmap
+## 🛠️ Services I Offer
 
-<p align="center">
+> 💼 Available for freelance projects — let's build something great together!
+> 📩 Reach me at **arkaamitdev@gmail.com** or [LinkedIn](https://linkedin.com/in/arkasamit)
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                     🗺️  PROJECT ROADMAP                         ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  🛒  E-COMMERCE APP                              [MERN · Stripe] ║
-║      ┣━ Product listings, cart & checkout                        ║
-║      ┣━ JWT auth & user dashboard                                ║
-║      ┗━ Payment integration with Stripe                          ║
-║                          │                                       ║
-║                          ▼                                       ║
-║  📊  ADMIN DASHBOARD               [Next.js · MySQL · Chart.js]  ║
-║      ┣━ Role-based access control                                ║
-║      ┣━ Data analytics & visual reports                          ║
-║      ┗━ REST API with server-side rendering                      ║
-║                          │                                       ║
-║                          ▼                                       ║
-║  💬  REAL-TIME CHAT APP          [Node.js · React · Socket.io]   ║
-║      ┣━ Live messaging with chat rooms                           ║
-║      ┣━ Online presence indicators                               ║
-║      ┗━ JWT authentication & history                             ║
-║                          │                                       ║
-║                          ▼                                       ║
-║  🔐  AUTH SYSTEM         [Express · MongoDB · NextAuth · OAuth]  ║
-║      ┣━ JWT + refresh token flow                                 ║
-║      ┣━ Google / GitHub OAuth                                    ║
-║      ┗━ Secure session management                                ║
-║                          │                                       ║
-║                          ▼                                       ║
-║  📝  BLOG / CMS                    [Next.js · MongoDB · Tailwind] ║
-║      ┣━ Rich text editor                                         ║
-║      ┣━ SEO optimized pages                                      ║
-║      ┗━ Admin content management panel                           ║
-║                          │                                       ║
-║                          ▼                                       ║
-║  🗂️  TASK MANAGER                    [React · Redux · Node.js]   ║
-║      ┣━ Kanban board with drag & drop                            ║
-║      ┣━ Team collaboration & assignments                         ║
-║      ┗━ Real-time updates via WebSocket                          ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+<br/>
 
-</p>
+| Service | What You Get | Tech |
+|:--------|:-------------|:-----|
+| 🛒 **E-Commerce Website** | Full online store with product listings, cart, secure checkout & payment gateway | MERN, Redux, Stripe |
+| 📊 **Admin Dashboard** | Custom data reporting panel with charts, analytics & role-based access for your team | Next.js, MySQL, Chart.js |
+| 💬 **Real-Time Chat App** | Live messaging system with chat rooms, user presence & secure authentication | Node.js, React, Socket.io |
+| 🔐 **Authentication System** | Secure login & registration with JWT, OAuth (Google/GitHub) & session management | Express, MongoDB, NextAuth |
+| 📝 **Blog / CMS Website** | Content management system with rich text editor, SEO-ready pages & admin panel | Next.js, MongoDB, Tailwind |
+| 🗂️ **Project / Task Manager** | Team task tracker with Kanban board, drag & drop & real-time collaboration | React, Redux, Node.js |
+| 🌐 **Portfolio / Business Site** | Clean, fast & responsive website to showcase your brand or personal profile | Next.js, Tailwind, Vercel |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
