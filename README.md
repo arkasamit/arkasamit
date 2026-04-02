@@ -1,4 +1,5 @@
 
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=200&section=header&text=Arka%20Sarker%20Amit&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Senior%20IT%20Officer%20%7C%20MERN%20%26%20Next.js%20Developer&descAlignY=55&descSize=16" />
 </p>
@@ -6,6 +7,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Next.js+Learner;Always+Learning+New+Things&center=true&width=500&height=45&color=7F77DD" />
 </p>
+
+---
 
 
 
