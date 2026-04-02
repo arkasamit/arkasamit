@@ -153,7 +153,13 @@ const arka = {
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arkasamit&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=arkasamit&theme=tokyonight&hide_border=true" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arkasamit&theme=tokyo-night&hide_border=true&area=true&custom_title=Arka's%20Contribution%20Graph" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
