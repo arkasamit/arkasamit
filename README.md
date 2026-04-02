@@ -11,6 +11,8 @@
 </p>
 >
 
+<h2>Hi 👋, I'm Arka Sarker Amit</h2><br>Senior IT Officer | Aspiring Full-Stack Developer (MERN & Next.js)<br><br>I am a **Senior IT Officer** at **Blue Pineapple Technology**, responsible for data management, reporting, and MIS operations.  <br><br>I am passionate about **Web Development** and have experience at a **beginner-to-intermediate level** in building modern, scalable applications.  <br><br>🛠️ Skills & Tech Stack<br>- 💻 **Frontend & Backend:** MERN (MongoDB, Express.js, React, Node.js), Next.js  <br>- 🌱 **Learning:** Advanced full-stack development, modern web frameworks  <br>- 🚀 **Interests:** Scalable web apps, clean code, problem-solving  <br><br> 🌐 Portfolio & Contact<br>- 🔗 Portfolio: www.arkasamit.dev<br>- ✉️ Email: arkaamitdev@gmail.com<br>- 🔗 LinkedIn: https://www.linkedin.com/in/arkasamit<br><br>⭐ Arka Sarker Amit - Coding today, innovating tomorrow.
+
 ---
 
 
@@ -22,17 +24,6 @@
 </p>
 
 ---
-
-## 🌐 Socials
-
-<p align="left">
-  <a href="https://discord.gg/arkaamit"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" /></a>
-  <a href="https://facebook.com/arkasamit"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/arkasamit"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:arkaamitdev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://www.arkasamit.dev"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white" /></a>
-</p>
-
 
 ## 🚀 Currently Building
 
@@ -82,6 +73,15 @@
 </p>
 
 ---
+## 🌐 Socials
+
+<p align="left">
+  <a href="https://discord.gg/arkaamit"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" /></a>
+  <a href="https://facebook.com/arkasamit"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/arkasamit"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:arkaamitdev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://www.arkasamit.dev"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white" /></a>
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
