@@ -84,12 +84,6 @@ const arka = {
 
 ## 🧠 Skills & Comfort Level
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkasamit&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
-</p>
-
-<br/>
-
 <p align="center"><b>🎨 Tailwind CSS</b></p>
 <p align="center">
   <img src="https://progress-bar.xyz/80/?scale=100&title=Tailwind+CSS&width=600&color=38B2AC&suffix=%25" />
@@ -116,6 +110,7 @@ const arka = {
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
 
 ## 🛠️ Services I Offer
 
