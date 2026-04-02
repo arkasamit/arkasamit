@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F77DD&center=true&vCenter=true&random=false&width=600&height=55&lines=Senior+IT+Officer+%F0%9F%92%BC;MERN+Stack+Developer+%F0%9F%9A%80;Next.js+Enthusiast+%E2%9A%A1;Building+Scalable+Web+Apps+%F0%9F%8C%90;Coding+Today%2C+Innovating+Tomorrow+%E2%9C%A8" />
 </p>
 
-<!-- Animated Badges Row -->
+<!-- Badges Row -->
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-7F77DD?style=for-the-badge" />
   &nbsp;
@@ -17,10 +17,8 @@
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge" />
 </p>
 
-<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-<!-- About Me -->
 ## 👨‍💻 About Me
 
 ```typescript
@@ -38,7 +36,6 @@ const arka = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-<!-- Socials -->
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -61,7 +58,6 @@ const arka = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-<!-- Tech Stack -->
 ## 💻 Tech Stack
 
 <p align="center">
@@ -71,11 +67,10 @@ const arka = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-<!-- Currently Building -->
 ## 🚀 Currently Building
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=90&text=%F0%9F%94%A5%20Full-Stack%20Web%20App%20%E2%80%94%20Next.js%20%2B%20MongoDB&fontSize=20&fontColor=ffffff&fontAlignY=50&animation=blinking" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=90&text=%F0%9F%94%A5%20Full-Stack%20Web%20App%20%E2%80%94%20Next.js%20%2B%20MongoDB&fontSize=20&fontColor=ffffff&fontAlignY=50&animation=blinking" />
 </p>
 
 <p align="center">
@@ -87,42 +82,92 @@ const arka = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-<!-- Skills -->
 ## 🧠 Skills & Comfort Level
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkasamit&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+</p>
 
-| Tech | Progress | Level |
-|:-----|:--------:|------:|
-| Tailwind CSS | ████████░░ | 80% |
-| React / Next.js | ████████░░ | 72% |
-| Node.js / Express | ███████░░░ | 65% |
-| MongoDB | ██████░░░░ | 60% |
-| Docker | ████░░░░░░ | 35% |
+<br/>
 
+<p align="center"><b>🎨 Tailwind CSS</b></p>
+<p align="center">
+  <img src="https://progress-bar.xyz/80/?scale=100&title=Tailwind+CSS&width=600&color=38B2AC&suffix=%25" />
+</p>
+
+<p align="center"><b>⚛️ React / Next.js</b></p>
+<p align="center">
+  <img src="https://progress-bar.xyz/72/?scale=100&title=React+%2F+Next.js&width=600&color=7F77DD&suffix=%25" />
+</p>
+
+<p align="center"><b>🟢 Node.js / Express</b></p>
+<p align="center">
+  <img src="https://progress-bar.xyz/65/?scale=100&title=Node.js+%2F+Express&width=600&color=6DA55F&suffix=%25" />
+</p>
+
+<p align="center"><b>🍃 MongoDB</b></p>
+<p align="center">
+  <img src="https://progress-bar.xyz/60/?scale=100&title=MongoDB&width=600&color=4ea94b&suffix=%25" />
+</p>
+
+<p align="center"><b>🐳 Docker</b></p>
+<p align="center">
+  <img src="https://progress-bar.xyz/35/?scale=100&title=Docker&width=600&color=0db7ed&suffix=%25" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-<!-- I Can Build -->
-## 💡 I Can Build
+## 💡 I Can Build — Roadmap
 
 <p align="center">
 
-| | What | Description | Tech Stack |
-|:-|:-----|:------------|:-----------|
-| 🛒 | **E-Commerce App** | Full-stack store with cart, auth & payment | MERN, Redux, Stripe |
-| 📊 | **Admin Dashboard** | Analytics & reporting with role-based access | Next.js, MySQL, Chart.js |
-| 💬 | **Real-Time Chat** | Live messaging with rooms & JWT auth | Node.js, React, Socket.io |
-| 🔐 | **Auth System** | Secure login with JWT, OAuth & refresh tokens | Express, MongoDB, NextAuth |
-| 📝 | **Blog / CMS** | Rich text content management with SEO | Next.js, MongoDB, Tailwind |
-| 🗂️ | **Task Manager** | Kanban-style tracker with drag & drop | React, Redux, Node.js |
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                     🗺️  PROJECT ROADMAP                         ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  🛒  E-COMMERCE APP                              [MERN · Stripe] ║
+║      ┣━ Product listings, cart & checkout                        ║
+║      ┣━ JWT auth & user dashboard                                ║
+║      ┗━ Payment integration with Stripe                          ║
+║                          │                                       ║
+║                          ▼                                       ║
+║  📊  ADMIN DASHBOARD               [Next.js · MySQL · Chart.js]  ║
+║      ┣━ Role-based access control                                ║
+║      ┣━ Data analytics & visual reports                          ║
+║      ┗━ REST API with server-side rendering                      ║
+║                          │                                       ║
+║                          ▼                                       ║
+║  💬  REAL-TIME CHAT APP          [Node.js · React · Socket.io]   ║
+║      ┣━ Live messaging with chat rooms                           ║
+║      ┣━ Online presence indicators                               ║
+║      ┗━ JWT authentication & history                             ║
+║                          │                                       ║
+║                          ▼                                       ║
+║  🔐  AUTH SYSTEM         [Express · MongoDB · NextAuth · OAuth]  ║
+║      ┣━ JWT + refresh token flow                                 ║
+║      ┣━ Google / GitHub OAuth                                    ║
+║      ┗━ Secure session management                                ║
+║                          │                                       ║
+║                          ▼                                       ║
+║  📝  BLOG / CMS                    [Next.js · MongoDB · Tailwind] ║
+║      ┣━ Rich text editor                                         ║
+║      ┣━ SEO optimized pages                                      ║
+║      ┗━ Admin content management panel                           ║
+║                          │                                       ║
+║                          ▼                                       ║
+║  🗂️  TASK MANAGER                    [React · Redux · Node.js]   ║
+║      ┣━ Kanban board with drag & drop                            ║
+║      ┣━ Team collaboration & assignments                         ║
+║      ┗━ Real-time updates via WebSocket                          ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-<!-- Open To -->
 ## 🟢 Open To
 
 <p align="center">
@@ -137,23 +182,21 @@ const arka = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-<!-- Dev Quote -->
-### ✍️ Dev Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
-<!-- Activity Graph -->
 ## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arkasamit&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
-<!-- Footer Wave -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
+### ✍️ Dev Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+<!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" />
 </p>
